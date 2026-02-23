@@ -13,3 +13,4 @@ select * from cj1;
 
 select * from cj cross join cj1 order by id asc;
 select name,city from cj cross join cj1;
+
